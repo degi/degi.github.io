@@ -1,7 +1,2 @@
----
-layout: page
-title: 
-permalink: 
----
-# TALAS Toolkit
+**TALAS Toolkit**
 Trees and Agroforestry to Leverage Agroecosystem Service
