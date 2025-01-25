@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Trees and Agroforestry to Leverage Agroecosystem Services
-permalink: /talas/
+title: About
+permalink: /about/
 ---
 
 This is about something
