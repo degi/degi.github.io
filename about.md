@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Trees and Agroforestry to Leverage Agroecosystem Service
 permalink: /talas/
 ---
 
